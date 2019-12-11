@@ -12,15 +12,30 @@ This single-page application utlizes JQuery and AJAX functions to update a web p
 and to send data in the background.
 
 
-### Step 0:
+### Function 0:
 The $(document ).ready() method will run once the page DOM is ready to execute JavaScript code.
 The first JS function call is getUserList();
 
 
 ![alt text](/DOM1.PNG)
 
-### Step 1: What does getUserList(); do ?
-The function getUserList request JSON data if user is registered it calls another function to draw table
+### Function 1: What does getUserList(); do ?
+The function getUserList request JSON data if user is created and on success it calls another function to draw table
 in realtime.
 
 ![alt text](/DOM2.PNG)
+
+
+### Function 2: How does loginUser()  work ?
+If you would go over HTML code you will notice that on click of login button there is a JS function called its name loginUser()
+Let's trace how it works
+
+![alt text](login1.PNG)
+
+### Function 3: How to send email through third party API? 
+On our application, any user who log in would have the option to check a group of people and sent email to them. 
+Let's see how it works 
+
+On clicking the send email button 
+![alt text](sendemail.PNG)
+
