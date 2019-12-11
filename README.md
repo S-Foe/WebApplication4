@@ -40,3 +40,6 @@ On clicking the send email button
 
 ![alt text](sendemail.PNG)
 
+Then, a JS function is run on the background to send AJAX post request 
+
+![alt text](email.PNG)
