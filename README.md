@@ -20,7 +20,7 @@ The first JS function call is getUserList();
 ![alt text](/DOM1.PNG)
 
 ### Step 1: What does getUserList(); do ?
-The function getUserList request JSON data if user is created and on success it calls another function to draw table ]
+The function getUserList request JSON data if user is created and on success it calls another function to draw table
 in realtime.
 
 ![alt text](/DOM2.PNG)
