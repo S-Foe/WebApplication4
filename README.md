@@ -17,4 +17,10 @@ The $(document ).ready() method will run once the page DOM is ready to execute J
 The first JS function call is getUserList();
 
 
-### Step 1: getUserList();
+![alt text](/DOM1.PNG)
+
+### Step 1: What does getUserList(); do ?
+The function getUserList request JSON data if user is created and on success it calls another function to draw table ]
+in realtime.
+
+![alt text](/DOM2.PNG)
