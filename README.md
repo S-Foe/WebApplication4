@@ -56,5 +56,6 @@ Let's see how it looks like
 
 # Lessons learned 
 ### - Security Security Security 
+ ![alt text](Your Twilio account API credentials are compromised.png)
  ![alt text](security.PNG)
 ### - Choose API that is smiple to use 
