@@ -43,3 +43,11 @@ On clicking the send email button
 Then, a JS function is run on the background to send AJAX post request 
 
 ![alt text](email.PNG)
+
+Each thrid party API will provide you with a guideline to configure both ends. 
+On this application I created a gmail account and I am using GMAIL as third party API to send email
+
+![alt text](API.PNG)
+
+
+
