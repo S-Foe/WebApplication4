@@ -33,9 +33,10 @@ Let's trace how it works
 ![alt text](login1.PNG)
 
 ### Function 3: How to send email through third party API? 
-On our application, any user who log in would have the option to check a group of people and sent email to them. 
+On our application, any user who log in would have the option to check a group of people and send email to them. 
 Let's see how it works 
 
 On clicking the send email button 
+
 ![alt text](sendemail.PNG)
 
