@@ -55,4 +55,6 @@ On this application I created a gmail account and I am using GMAIL as third part
 Let's see how it looks like 
 
 # Lessons learned 
-Security Security Security 
+### - Security Security Security 
+ ![alt text](security.PNG)
+### - Choose API that is smiple to use 
